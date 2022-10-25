@@ -1,3 +1,0 @@
-[submodule "scripts"]
-	path = scripts
-	url = git@github.com:kelvin-gt/belajar-git-submodule.git
