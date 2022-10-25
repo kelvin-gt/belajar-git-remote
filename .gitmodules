@@ -1,3 +1,4 @@
 [submodule "scripts2"]
 	path = scripts2
 	url = git@github.com:kelvin-gt/belajar-git-submodule.git
+	branch = release
